@@ -1,2 +1,4 @@
 Pillow==5.0.0
 pymc3==3.3
+matplotlib
+scipy
